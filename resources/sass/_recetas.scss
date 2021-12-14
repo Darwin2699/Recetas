@@ -1,0 +1,21 @@
+body{
+    font-family: $parrafos-font-family;
+}
+
+.bg-primary .navbar-brand{
+    color: white;
+    font-family: $font-family-sans-serif;
+    font-size: 1.5rem;
+    &:hover{
+        color: white;
+    }
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+    font-family: $font-family-sans-serif;
+    //font-size: 1.5rem;
+    &:hover{
+        color: white;
+    }
+
+}
